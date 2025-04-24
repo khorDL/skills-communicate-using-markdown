@@ -2,4 +2,11 @@
 
 # ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-#<h2>should be correct</h2>
+``` javascript
+var myVar = "Hello, world!";
+```
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
